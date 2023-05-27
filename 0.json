@@ -15,7 +15,7 @@
 "lives":[ 
 {
       "name": "live",
-      "url": "https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/XIAOHU/main/1.json",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "logo": "http://epg.51zmt.top:8000/{logo}"
@@ -33,7 +33,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"🖖豆瓣推荐┃接口通用-Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,
+{"key":"豆瓣","name":"🖖豆瓣推荐┃接口通用","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,
 "ext":"./js/douban.js"},
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
